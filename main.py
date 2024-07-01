@@ -3,7 +3,7 @@ from datetime import datetime
 import discord
 import asyncio
 
-ADDRESS = "pechi.jp"
+ADDRESS = "SERVER_ADDRESS"
 PORT = 25565
 TOKEN = "YOUR_TOKEN"
 CHANNEL_ID = 1257251108787589161
